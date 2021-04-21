@@ -1,2 +1,2 @@
 # zapatistas
-Final Project studying rhetoric used by Zapatistas during the Mexican Revolution of the early 20th century
+Final Project studying rhetoric used by the Zapatista National Liberation Army during the late 20th century.
