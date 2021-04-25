@@ -115,7 +115,7 @@ We are the product of 500 years of struggle: first against slavery,
 then during the War of Independence against Spain led by insurgents, then
 to avoid being absorbed by North American imperialism, then to promulgate
 our constitution and expel the French Empire from our soil, and later the
-dictatorship of Porfirio Díaz denied us the just application of
+dictatorship of Porfirio DÃ­az denied us the just application of
 the Reform Laws, and the people rebelled and leaders like Villa and Zapata
 emerged, poor people just like us. We have been denied the most elemental
 preparation so that they can use us as cannon fodder and pillage the wealth
@@ -204,7 +204,7 @@ met by forming a government of our country that is free and democratic.
 JOIN THE INSURGENT FORCES OF THE ZAPATISTA NATIONAL LIBERATION ARMY!
 General Command of the EZLN
 December 31, 1993
- 
+Â 
 Editorial
 Mexicans: workers, campesinos, students, honest professionals, Chicanos,
 and progressives of other countries: We have begun the struggle that is
@@ -246,10 +246,10 @@ are the Revolutionary Laws that will be enacted in the liberated territories
 in order to guarantee their revolutionary control and strengthen the bases
 so we can begin the process of building a new Mexico.
 To live for our country or die for freedom.
- 
- 
+Â 
+Â 
 Revolutionary Laws
- 
+Â 
 Women's Revolutionary Law
 In the just fight for the liberation of our people, the EZLN incorporates
 women into the revolutionary struggle, regardless of their race, creed,
@@ -283,7 +283,7 @@ organization
 and hold military ranks in the revolutionary armed forces.
 Tenth: Women will have all the rights and obligations elaborated in
 the Revolutionary Laws and regulations.
- 
+Â 
 Urban Reform Law
 In the urban zones controlled by the EZLN, the following laws will be
 enacted in order to ensure dignified housing for all dispossessed families:
@@ -307,7 +307,7 @@ occupied by families, who will divide the buildings among themselves. In
 order to facilitate this, the civil authorities will appoint neighborhood
 committees that will decide on requests that are presented to them and
 will grant living space on the basis of need and available resources.
- 
+Â 
 Labor Law: Additions to the Present Law
 The following laws will be added to the current Federal Labor Law in
 the zones controlled by the EZLN.
@@ -330,7 +330,7 @@ stock in the company for which they work, the exact quantity to be determined
 by the number of years that the worker has worked for the company--this
 in addition to their current pensions. The monetary value of said stock
 will be used for the worker's retirement, by his wife or by his beneficiary.
- 
+Â 
 Industry and Commerce Law
 First: The prices of basic products will be regulated by a local Prices
 and Salaries Commission. Said Commission will be composed of workers, 
@@ -349,7 +349,7 @@ unproductive,
 and attempt to close in order to carry away the machinery and raw materials,
 will be passed to the management of the workers, and the machinery will
 become the property of the nation.
- 
+Â 
 Social Security Law
 First: Abandoned children will be fed and protected by the nearest 
 neighbors
@@ -361,7 +361,7 @@ Third: Those incapacitated by the war will receive attention and work
 priority under the direction of the EZLN.
 Fourth: The pension of retirees will be equal to the minimum salary
 established by local Price and Salary Commissions.
- 
+Â 
 Justice Law
 First: All prisoners in all prisons will be liberated, except those
 guilty of murder, rape and the leaders of drug-trafficking operations.
@@ -370,7 +370,7 @@ president
 up to the president of the republic, will be subject to audit, and will
 be judged for misappropriation of funds in cases where evidence of guilt
 is found.
- 
+Â 
 Revolutionary Agrarian Law
 The poor campesinos' movement in Mexico demands the return of the land
 to those who work it and, in the tradition of Emiliano Zapata and in 
@@ -472,7 +472,7 @@ that this Revolutionary Agrarian Law is implemented, all debts--whether
 they are from credit, taxes, or loans--that are owed by the poor campesinos
 or agricultural workers to the oppressive government, to foreigners or
 to capitalists, are forgiven.
- 
+Â 
 Law of Rights and Obligations
 of Peoples in Struggle
 In its liberatory advance through Mexican territory, and in the struggle
@@ -551,7 +551,7 @@ their command and the origin and destination of all of the material resources
 and human posts in their administration.
 B: To regularly inform the respective Command of the revolutionary armed
 forces of any events that occur in their area.
- 
+Â 
 Instructions to Leaders
 and Officials of the EZLN
 The following orders are obligatory for all leaders and officials of
@@ -602,7 +602,7 @@ whenever the same people request this help.
 Tenth: Absolutely no one will be able to have meetings or treaties with
 the oppressor government or with its representatives without the prior
 authorization of the General Command of the EZLN.
- 
+Â 
 War Tax Law
 In the zones controlled by the EZLN the following War Tax Law will be
 instituted and will be made to function with all of the moral, political
@@ -662,7 +662,7 @@ of Rights and Obligations of Peoples in Struggle.
 Tenth: No civil or military authority, whether it be of the oppressor
 government or of the revolutionary forces, will take for personal or family
 benefit any part of these war taxes.
- 
+Â 
 Law of Rights and Obligations
 of the Revolutionary Armed Forces
 The revolutionary armed forces of the EZLN, in their struggle against
@@ -718,16 +718,16 @@ Commands for the abuses or crimes of subordinates who are not remitted
 to revolutionary military tribunals.
 N: To dedicate yourselves to making war against the enemy until they
 are definitively removed from the territory in question or are annihilated.
- 
- 
+Â 
+Â 
 Testimonies of the First Day
 [The following are excerpted transcriptions that were published in La
-Jornada. They were recorded in San Cristóbal de las Casas just after
+Jornada. They were recorded in San CristÃ³bal de las Casas just after
 the EZLN liberated the city on January 1, 1994, and the transcription was
 published in La Jornada on January 19. They begin with Subcommander Marcos
 answering questions after reading the Declaration of War from the balcony
 of the Municipal Presidential Palace.]
- 
+Â 
 [La Jornada, 1/19]
 Q: Have there been any losses?
 Marcos: No. Neither ours nor the enemy's. Only in Ocosingo. There were
@@ -737,7 +737,7 @@ not responded?
 M: You have to take into account that it is a difficult situation, because
 this is the command of the 31st Military Zone. And they attack the back
 and three fronts. It is not as though you say, OK, now I will come and
-finish with San Cristóbal.
+finish with San CristÃ³bal.
 Q: Why are some of you masked and others are not, although you are all
 from the same movement?
 M: Those of us who are more handsome always have to protect ourselves...
@@ -868,15 +868,15 @@ quite the opposite.
 Q: Why did you pick those four towns, did you have that already planned?
 M: We have everything planned.
 Q: In the state [of Chiapas]?
-M: Comitán, Tuxtla, Palenque, Arteaga, Tapachula...
+M: ComitÃ¡n, Tuxtla, Palenque, Arteaga, Tapachula...
 Q: Not just four towns?
 M: Well wait, and we'll be right behind you. Everything is planned down
-to the hut of Tres Marías and the Cuernavaca-Mexico highway. And
+to the hut of Tres MarÃ­as and the Cuernavaca-Mexico highway. And
 from there we have planned how to enter. Some say that we should stay and
-eat some quesadillas in Tres Marías... The plan is to go on to all
+eat some quesadillas in Tres MarÃ­as... The plan is to go on to all
 of the towns. We will go on to all of the towns. The thing is that we are
 the majority. That is the truth. But we will try to follow the bosses of
-San Cristóbal and not cause any problems to the civil population
+San CristÃ³bal and not cause any problems to the civil population
 and try to convince the Army to come over from the side of injustice.
 The immediate objective is that our agricultural laws begin to operate
 in the liberated zones, that the campesinos organize themselves, taking
@@ -891,7 +891,7 @@ there be land, because there is land, and that it be distributed, because
 they just said that they were not going to give any more out.
 So before it was running around in Agrarian Reform, which they would
 probably give you. Well now, even if you run around, they won't give it
-to you. That is what Hank González and Salinas de Gortari said when
+to you. That is what Hank GonzÃ¡lez and Salinas de Gortari said when
 they said: Land reform is over.
 Q: Listen, what about the stores?
 M: I said a little while ago up there that businesses will be permitted
@@ -912,7 +912,7 @@ Revolutionary Indigenous Committee, leadership of our revolution, has decreed
 today:
 First: that the stores and businesses that belong to the oppressor 
 government
-be opened so that the people of San Cristóbal can take from them
+be opened so that the people of San CristÃ³bal can take from them
 what they need. Only the stores and businesses that belong to the federal
 and state government, nothing against local commerce.
 Second decree: directed at the command of the 31st Military Zone with
@@ -950,7 +950,7 @@ your goods, because the problem is not with you, and if you can also take
 it into account, because right now the press and the propaganda are saying
 very much that we are raping, stealing, robbing gasoline stations, looting
 businesses and many things that you have seen with your own eyes, we have
-not done here in San Cristóbal. If anyone would like to go further
+not done here in San CristÃ³bal. If anyone would like to go further
 [applause]... Also, here a person is telling me to make public the guarantees
 that we give to all civilians regardless of their political affiliation,
 nationality, race, or creed, that they will not be touched by our forces.
@@ -989,7 +989,7 @@ us are Mexicans. The movement is national, and among our troops that fight
 here are people who have visited various states of the Republic but mainly
 the troops that are here are Chiapanecos and mainly Indigenous. We are
 not requiring the reaching of an accord as a condition for leaving San
-Cristóbal. We may leave even though there is no accord, according
+CristÃ³bal. We may leave even though there is no accord, according
 to orders that may tell us to leave and attack another place. We would
 have to march to other places. In this case Tuxtla, since if the order
 is that we have to go there, we have nothing to do here. What I want you
