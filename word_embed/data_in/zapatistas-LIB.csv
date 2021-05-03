@@ -1,0 +1,13 @@
+text_id,text_title,text_file,tfidf_sum,tfidf_mean
+1,The Revolt,./data_in\zapatistas-ch1.txt,3404.8338492860194,0.8512084623215048
+2,The First Days,./data_in\zapatistas-ch2.txt,3946.819307310535,0.9867048268276337
+3,The Cease - Fire,./data_in\zapatistas-ch3.txt,4422.099617890937,1.1055249044727342
+4,Solidarity,./data_in\zapatistas-ch4.txt,2767.5518149833442,0.691887953745836
+5,Broadening the Struggle,./data_in\zapatistas-ch5.txt,4475.7510546938265,1.1189377636734565
+6,Building Ties,./data_in\zapatistas-ch6.txt,2366.24126138493,0.5915603153462325
+7,Before the Dialogue,./data_in\zapatistas-ch7.txt,3600.2669178205538,0.9000667294551384
+8,The Dialogue,./data_in\zapatistas-ch8.txt,4918.226171741113,1.2295565429352782
+9,Concluding the Dialogue,./data_in\zapatistas-ch9.txt,2593.543853445561,0.6483859633613903
+10,Returning to the Communities,./data_in\zapatistas-ch10.txt,2133.1409348427997,0.5332852337106999
+11,The Consultations,./data_in\zapatistas-ch11.txt,4078.5841316662263,1.0196460329165566
+12,Rejecting the Government's Offer,./data_in\zapatistas-ch12.txt,2782.697746589184,0.695674436647296
